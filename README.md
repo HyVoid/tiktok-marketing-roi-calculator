@@ -183,22 +183,25 @@ TRUE, "TEST NEW FORMATS"
 
 ## The Business Logic & Methodology
 
-To understand why this system exists, you must examine the structural business problems digital agencies face when proving their value. This operating system applies core marketing science methodologies to solve three specific agency-client disconnects that typically lead to client churn or wasted ad spend:
+The **TikTok Agency Monthly Performance Intelligence Operating System** turns TikTok analytics, organic content performance, paid advertising results, and market benchmarks into a repeatable framework for marketing performance analysis and client decision-making.
 
-### 1. The Attribution Problem: "Is our content actually working, or are we just buying views?"
-* **The Business Problem:** Clients frequently misinterpret aggregate audience growth as organic success. If a brand scales ad spend, total views increase. If they later cut the budget, the perceived "organic" floor collapses, and the agency’s creative team takes the blame.
-* **The Methodology (Segmented Attribution Analysis):** The core calculation engine isolates paid impressions (amplification) from organic reach (algorithm distribution), mathematically deduplicating blended views and engagement.
-* **The Commercial Result:** Agencies can definitively prove the baseline value of their creative production independently of the media buying budget, protecting the retainer when ad spend fluctuates.
+Instead of treating monthly reporting as a collection of social media metrics, the framework connects performance measurement with attribution analysis, trend evaluation, benchmark comparison, and strategic action planning. The goal is to help TikTok marketing agencies explain what changed, identify plausible performance drivers, and decide where to maintain, reduce, test, or increase investment.
 
-### 2. The Context Problem: "Is a 4.5% Engagement Rate good or bad?"
-* **The Business Problem:** Operating without context allows clients to set arbitrary, emotion-based KPI targets. This often creates a no-win scenario for account managers when expectations diverge from market reality.
-* **The Methodology (Relative Market Benchmarking):** The intelligence engine evaluates absolute campaign metrics (like CTR, ER, or CPA) against static geographic and industry-specific baseline parameters set during configuration.
-* **The Commercial Result:** Transitions the client conversation from subjective opinions (*"I feel this video didn't do well"*) to objective, data-backed evaluations (*"This campaign outperformed the current European E-commerce average by 18%"*). It grounds client expectations in mathematical reality.
+The methodology combines five complementary approaches:
 
-### 3. The Scaling Trap: "If our ROAS is 3.0, why shouldn't we double the budget today?"
-* **The Business Problem:** Clients often push to scale budgets linearly, which inevitably leads to collapsing efficiency as audiences saturate. Agencies need a structural, data-backed defense for pacing ad spend wisely.
-* **The Methodology (Marginal Efficiency Evaluation):** The recommendation engine cross-references spend velocity with conversion decay. It looks beyond aggregate ROAS to identify when acquisition costs (CPA) begin to exceed the predefined benchmark threshold.
-* **The Commercial Result:** Protects client profitability by automatically flagging campaigns for optimization *before* they hit severe diminishing returns. This shifts the agency's positioning from a simple "order-taker" to a strategic growth advisor, building long-term trust and client retention.
+- **Paid vs. Organic Performance Attribution:** Separates organic content activity from paid advertising performance to clarify which channels contribute to observed reach, audience growth, and revenue. This helps agencies distinguish content-led growth from growth supported by advertising spend. Where tracking data is incomplete, contribution estimates should not be interpreted as definitive causal attribution.
+
+- **KPI Standardization and Performance Measurement:** Applies consistent definitions to metrics such as engagement rate (ER), click-through rate (CTR), cost per acquisition (CPA), cost per thousand impressions (CPM), and return on ad spend (ROAS). Standardized measurement makes client reporting more consistent and reduces the risk of comparing metrics calculated on different bases.
+
+- **Industry Benchmarking:** Compares campaign and content performance against relevant country and industry benchmarks. This provides context for determining whether a result is relatively strong or weak, rather than relying exclusively on month-over-month changes or isolated metrics. Benchmark quality depends on the relevance, recency, and comparability of the underlying data.
+
+- **Trend Analysis and Performance Diagnostics:** Evaluates month-over-month changes and moving averages to distinguish sustained patterns from short-term fluctuations. This helps agencies investigate declining engagement, rising acquisition costs, or changing advertising efficiency before turning a metric movement into a strategic conclusion.
+
+- **Rule-Based Recommendations and Budget Prioritization:** Uses predefined performance thresholds to organize potential actions into four categories: KEEP, STOP, TEST, and SCALE. This creates a consistent starting point for monthly optimization decisions, helping teams prioritize high-performing content, investigate inefficient campaigns, and identify opportunities for controlled experiments. Recommendations remain subject to business objectives, attribution quality, and human review.
+
+Together, these methods create a standardized **TikTok marketing analytics and agency reporting workflow**: measure performance, separate channel contributions, evaluate results against relevant benchmarks, investigate trends, and translate findings into a prioritized action plan.
+
+The commercial benefit is not simply faster report production. It is a more repeatable way to deliver performance explanations, defend strategic recommendations with evidence, and maintain consistent analytical quality as an agency manages more clients.
 
 ---
 
