@@ -162,9 +162,6 @@ Here is a plain-English breakdown of the **4 hidden business blind spots** that 
 
 ## Technical Details & Workbook System Architecture
 
-<details>
-<summary><strong>Click to Expand: Workbook Architecture & Excel Formula Logic for Data Analysts</strong></summary>
-
 ### Multi-Layer Data Pipeline Flow
 
 ```text
