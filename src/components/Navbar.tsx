@@ -39,16 +39,16 @@ export default function Navbar({
       <div className="max-w-[1400px] h-full mx-auto px-10 flex items-center justify-between">
         {/* Left: Brand Identity */}
         <div className="flex items-center space-x-3">
-          <div className="bg-[#051C2C] p-1.5 rounded-lg flex items-center justify-center text-[#2251FF]">
+          <div className="bg-[#051C2C] p-1.5 rounded-lg flex items-center justify-center text-[#2251FF] shrink-0">
             <CloudLightning className="w-5 h-5" />
           </div>
-          <div>
-            <h1 className="font-serif-heading text-lg font-bold text-[#051C2C] tracking-tight leading-none">
-              TikTok Monthly Performance
-            </h1>
-            <p className="text-[10px] text-[#888888] font-mono tracking-wider uppercase">
-              Intelligence Engine • {clientName || "Agency Client"}
-            </p>
+          <div className="flex items-baseline space-x-2.5">
+            <span className="font-serif-heading text-lg font-bold text-[#051C2C] tracking-tight leading-none whitespace-nowrap">
+              Theseus Workshop
+            </span>
+            <span className="text-xs text-[#888888] font-mono tracking-tight font-normal whitespace-nowrap">
+              tiktok-marketing-roi-calculator
+            </span>
           </div>
         </div>
 

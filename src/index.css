@@ -1,23 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 @import "tailwindcss";
 
 @theme {
-  --font-sans: "Noto Sans", "Noto Sans SC", system-ui, -apple-system, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --font-serif: "EB Garamond", Georgia, serif;
 }
 
 :root {
-  --color-primary: #051C2C;
-  --color-accent: #2251FF;
-  --color-bg: #F5F5F2;
-  --color-muted: #888888;
+  /* Core Design System Variables */
+  --bg: #F5F5F2;
+  --surface: #FFFFFF;
+  --brand: #051C2C;
+  --accent: #2251FF;
+  --muted: #888888;
+  --ok: #00C853;
+  --danger: #D32F2F;
+  --input-bg: #FFFDE7;
+
+  /* Aliases for backwards compatibility */
+  --color-primary: var(--brand);
+  --color-accent: var(--accent);
+  --color-bg: var(--bg);
+  --color-muted: var(--muted);
   --color-body-text: #1A1A2E;
-  
-  --color-positive: #00C853;
-  --color-negative: #D32F2F;
-  
-  --color-surface: #FFFFFF;
-  --color-input-bg: #FFFDE7;
+  --color-surface: var(--surface);
+  --color-input-bg: var(--input-bg);
   --color-border: #E8E8E6;
   
   --nav-bg: #FFFFFF;
@@ -26,11 +32,11 @@
   --nav-text-inactive: rgba(5, 28, 44, 0.45);
   
   --font-heading: "EB Garamond", Georgia, serif;
-  --font-body: "Noto Sans", sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 body {
-  background-color: var(--color-bg);
+  background-color: var(--bg);
   color: var(--color-body-text);
   font-family: var(--font-body);
   font-size: 13px;
@@ -56,7 +62,7 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.06em;
   font-weight: 600;
-  color: var(--color-primary);
+  color: var(--brand);
 }
 
 /* Base fade up animation */

@@ -56,7 +56,8 @@ export default function App() {
       const dataStr = JSON.stringify(state, null, 2);
       const dataUri = 'data:application/json;charset=utf-8,'+ encodeURIComponent(dataStr);
       
-      const exportFileDefaultName = `${state.setup.clientName.replace(/[^a-z0-9]/gi, '_')}_Tiktok_Intelligence_Backup.json`;
+      const dateStr = new Date().toISOString().split('T')[0];
+      const exportFileDefaultName = `tiktok-marketing-roi-calculator-backup-${dateStr}.json`;
       
       const linkElement = document.createElement('a');
       linkElement.setAttribute('href', dataUri);
@@ -180,8 +181,8 @@ export default function App() {
       </main>
 
       {/* Minimal Footer */}
-      <footer className="w-full border-t border-[#E8E8E6] bg-white py-4 text-center text-xs text-[#888888] font-mono uppercase tracking-widest">
-        TikTok Agency Performance Intelligence Operating System &copy; 2026
+      <footer className="w-full border-t border-[#E8E8E6] bg-white py-4 text-center text-xs text-[#888888]">
+        All data in this tool is stored in your browser's localStorage. The page itself does not retain any user data.
       </footer>
     </div>
   );
