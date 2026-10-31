@@ -209,11 +209,12 @@ Paid_Amplification_Share_Pct  = Paid_Ad_Impressions / (Organic_Video_Views + Pai
 
 Explore other open-source marketing calculators and downloadable **Excel operating systems** in this series:
 
-* **[TikTok Marketing ROI & ROAS Calculator (Web App)](https://hyvoid.github.io/tiktok-marketing-roi-calculator/)** — Interactive browser tool for quick campaign profitability modeling and break-even CPA analysis.
-* **Paid Media Performance Intelligence Engine** — Multi-channel ad spend attribution and cross-platform ROAS tracker for Meta Ads, Google Ads, and TikTok Ads.
-* **Marketing Budget Allocation Simulator** — Cross-channel media mix modeling (MMM) and diminishing returns simulator for growth teams.
-* **DTC Inventory Planning Operating System** — E-commerce SKU demand forecasting, reorder point (ROP) calculator, and cash-flow purchasing workbook.
-* **Project Cost Allocation Control Center** — Digital agency labor utilization, client retainer scoping, and net profitability tracker.
+* **[Marketing-Audit-Decision-Console](https://github.com/HyVoid/Marketing-Audit-Decision-Console)** — What should we fix first in marketing performance? — Audit marketing channel performance by reconciling ad spend data with actual revenue attribution.
+* **[Marketing-Budget-Allocation-Simulator](https://github.com/HyVoid/Marketing-Budget-Allocation-Simulator)** — Where should the next dollar of marketing spend go? — Allocate marketing budget across channels using portfolio theory and return simulation.
+* **[Paid-Media-Data-Hub](https://github.com/HyVoid/Paid-Media-Data-Hub)** — How do we turn paid media exports into usable performance data? — Transform paid media data exports into standardized decision-ready performance reports.
+* **[Membership-Engagement-Analytics-Workspace](https://github.com/HyVoid/Membership-Engagement-Analytics-Workspace)** — Which members are engaged slipping or ready for intervention? — Identify member churn risk and engagement trends across lifetime participation history.
+* **[crm-shopify-marketing-attribution-excel](https://github.com/HyVoid/crm-shopify-marketing-attribution-excel)** — Which marketing spend actually produced profitable revenue? — Connect marketing acquisition channels to CRM sales progression and Shopify revenue through unified customer identity attribution.
+* **[igaming-affiliate-ftd-analyzer-excel](https://github.com/HyVoid/igaming-affiliate-ftd-analyzer-excel)** — Which affiliate and media-buying traffic sources deserve more budget, holding, cutting, or review based on early depositor cohort performance? — Evaluate early player cohorts against cost-per-first-time-depositor thresholds to drive scale, keep, stop, or review budget decisions.
 
 ---
 
