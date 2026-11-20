@@ -30,6 +30,14 @@ Instead of dumping raw social media metrics into static spreadsheets, this **Tik
 | **Misdiagnosed Account Stagnation & Falling Conversions** | **Spark Ads vs. Non-Spark Ads Split**, Frequency, Creative Fatigue Index, Paid vs. Organic Follower Growth Ratio | Diagnoses whether stalled growth stems from **UGC creative fatigue**, inefficient **TikTok media buying**, or audience saturation. |
 | **Unbilled Hours Spent Building Monthly QBR Slide Decks** | Month-over-Month (MoM) Variance, Moving Averages, Budget Pacing, Channel Contribution % | Converts fragmented **TikTok CSV exports** into standardized **white-label client reporting narratives** and next-month budget allocation plans. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1i3q6HAQCca-5AfH4CjU5eOnGMMLe7_T4/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## Quick Start Tutorial: How to Automate Your TikTok Client Reporting Workflow in 4 Steps
