@@ -226,6 +226,23 @@ Explore other open-source marketing calculators and downloadable **Excel operati
 
 ---
 
+## Questions, Feedback & Product Updates
+
+This repository is part of the Theseus Workshop collection of lightweight, reusable business decision-support tools. Feedback is welcome on practical usage questions, workflow gaps, reproducible calculation problems, and improvement ideas.
+
+- **Questions and usage help:** [Open a discussion](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
+- **Ideas and workflow suggestions:** [Share an idea](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
+- **Product updates:** [Follow product updates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
+- **Technical bugs:** Use the **Report a bug** issue form in this repository. Include the tool / workbook version, affected workflow area, expected vs. actual result, and reproducible steps.
+
+## Privacy & Data Handling Notice
+
+Please use synthetic or adequately de-identified examples when reporting issues. Do not publish raw workbooks, source exports, credentials, personal information, or confidential commercial records in public GitHub issues or discussions.
+
+Do not publish TikTok account credentials, client ad exports, creator contact details, unpublished campaign strategy, customer-level conversion data, or confidential client reports. Use synthetic campaign IDs and values.
+
+For browser-based tools, do not infer data storage, transmission, or retention behavior from the user interface alone. Check the current implementation and applicable data-handling notes before testing with real business data. When uncertain, use synthetic data only.
+
 ## License
 
 This project is licensed under the **Apache License 2.0**. See the `LICENSE` file in this repository for full legal details.
